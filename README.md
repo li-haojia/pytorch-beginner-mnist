@@ -8,3 +8,6 @@
 PS（自动选择是否用gpu，配置要求极低，我在我的 双核i5 笔记本上 8G内存 只有核显都可以正常运行 ）
 
 [正文 train.ipynb](train.ipynb)
+
+## 学习资源  
+特别好的[pytorch_handbook](https://github.com/zergtant/pytorch-handbook)
